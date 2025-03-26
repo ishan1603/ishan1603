@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 Software Developer | Problem Solver | Open-Source Contributor<br><br>Passionate about clean code, scalable systems, and efficient solutions.<br><br>Building things that work, scale, and make a difference.
 
 
